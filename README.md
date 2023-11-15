@@ -1,1 +1,1 @@
-# star-in-sky
+# fireworks animation effect in html
